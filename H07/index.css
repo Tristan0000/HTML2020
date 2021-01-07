@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    font-family:Arial;
+    background-color:#fcf4ec;
+}
+header {
+    background-color:#caecde;
+}
+header img {
+    width:200px;
+}
+nav {
+    background-color:grey;
+    position:relative;
+    padding:10px;
+}
+nav a {
+    margin-left:20px;
+    color:white;
+}
+section article h1 {
+    color:palevioletred;
+}
